@@ -1,0 +1,2 @@
+# kimchidi
+chidi tech
